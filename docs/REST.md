@@ -73,5 +73,5 @@ POST /token
 
 GET /users/{id}
 
-DELETE /orders/{order_id}
+DELETE /orders/{orderId}
 ```
